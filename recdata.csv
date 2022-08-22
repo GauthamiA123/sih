@@ -1,0 +1,897 @@
+item_id,category,product
+,accesories,umbrella
+,clothing,raincoat
+,decorative,candles
+,accesories,comb
+,clothing,sweaters
+,handicrafts,wooden horse
+,homecare,mop
+,handicrafts,bags
+,homecare,phenyl
+,selfcare,napkins
+,homecare,dhoop batti
+,kitchen,tawa
+,homecare,night lamp
+,homecare,earthern pot
+,kitchen,clay plate
+,kitchen,clay cups
+,kitchen,clay bowl set
+,kitchen,clay glass
+,kitchen,dinner set
+,kitchen,water bottle
+,kitchen,clay handi
+,kitchen,clay cooker
+,kitchen,earthern frigde
+,selfcare,herbal face creams
+,selfcare,herbal facewash
+,food,cashew
+,food,raisins
+,food,almonds
+,food,jaggery
+,food,pickle
+,food,ghee
+,food,chocolates
+,food,eggs
+,clothing,saree
+,clothing,kurti
+,homecare,bed covers
+,homecare,table cloth
+,homecare,bed
+,accesories,bindi
+,accesories,sandals
+,decorative,show pieces
+,accesories,jewellery
+,kitchen,straw
+,decorative,wall hanging
+,accesories,purse
+,food,jam
+,accesories,caps
+,toys,cars
+,homecare,sofa set
+,clothing,sweaters
+,food,honey
+,food,basil leaves
+,accesories,wooden phone cover
+,food,fitness supplement
+,selfcare,face mask
+,accesories,gloves
+,selfcare,hand sanitizer
+,homecare,tissue paper
+,selfcare,hand soaps
+,homecare,garbage cloth bag
+,homecare,cleaning liquids
+,homecare,chairs
+,homecare,night lamp
+,accesories,keychains
+,kitchen,clay soneryahandi
+,toys,wooden jeep
+,toys,wooden dolls
+,toys,wooden airplane
+,handicrafts,dreamcatcher
+,handicrafts,paintings
+,handicrafts,wooden arts
+,handicrafts,glass paintings
+,handicrafts,origami
+,kitchen,wooden spoons
+,kitchen,wooden fork
+,selfcare,herbal cough syrup
+,selfcare,herbal shampoo
+,kitchen,thermose
+,homecare,mosquito repelents
+,homecare,door mats
+,accesories,hair pins
+,accesories,wooden bangles
+,accesories,nosepin
+,homecare,sandalwood
+,selfcare,hand moisturizer
+,selfcare,foot cream
+,selfcare,face cream
+,selfcare,kajal
+,selfcare,lipstick
+,stationary,painting brush
+,accesories,makeup brush
+,accesories,mirror
+,homecare,ladder
+,stationary,pens
+,stationary,scale
+,stationary,eraser
+,stationary,sharpner
+,stationary,books
+,homecare,photo  frames
+,homecare,bucket
+,homecare,mug
+,kitchen,jug
+,stationary,colors
+,stationary,color pencil
+,food,tropical fruit
+,food,whole milk
+,food,pip fruit
+,food,other vegetables
+,food,juice
+,food,rolls/buns
+,decorative,pot plants
+,kitchen,butter
+,kitchen,f/v juice
+,food,packaged food
+,food,citrus fruit
+,food,beef
+,food,frankfurter
+,food,chicken
+,food,specialty bar
+,food,butter milk
+,food,bottled water
+,food,yogurt
+,food,sausage
+,food,brown bread
+,food,hamburger meat
+,food,root vegetables
+,food,pork
+,food,pastry
+,food,canned beer
+,food,berries
+,food,coffee
+,food,misc. beverages
+,food,ham
+,food,turkey
+,food,curd cheese
+,food,red/blush wine
+,food,frozen potato products
+,kitchen,flour
+,kitchen,sugar
+,kitchen,frozen meals
+,food,herbs
+,kitchen,soda
+,homecare,detergent
+,food,grapes
+,kitchen,processed cheese
+,food,fish
+,food,sparkling wine
+,homecare,newspapers
+,food,curd
+,food,pasta
+,food,popcorn
+,food,finished products
+,food,beverages
+,food,bottled beer
+,food,dessert
+,food,dog food
+,food,specialty chocolate
+,food,condensed milk
+,kitchen,cleaner
+,kitchen,white wine
+,food,meat
+,food,ice cream
+,food,hard cheese
+,food,cream cheese
+,food,liquor
+,food,pickled vegetables
+,food,liquor (appetizer)
+,food,UHT-milk
+,food,candy
+,food,onions
+,selfcare,hair spray
+,decorative,photo/film
+,food,domestic eggs
+,food,margarine
+,homecare,shopping bags
+,food,salt
+,food,oil
+,food,whipped/sour cream
+,food,frozen vegetables
+,food,sliced cheese
+,kitchen,dish cleaner
+,food,baking powder
+,food,specialty cheese
+,food,salty snack
+,food,Instant food products
+,selfcare,pet care
+,food,white bread
+,selfcare,female sanitary products
+,accesories,cling film/bags
+,selfcare,soap
+,food,frozen chicken
+,homecare,house keeping products
+,food,spread cheese
+,food,decalcifier
+,food,frozen dessert
+,kitchen,vinegar
+,food,nuts/prunes
+,food,potato products
+,food,frozen fish
+,homecare,hygiene articles
+,kitchen,artif. sweetener
+,homecare,light bulbs
+,food,canned vegetables
+,food,chewing gum
+,food,canned fish
+,kitchen,cookware
+,food,semi-finished bread
+,food,cat food
+,homecare,bathroom cleaner
+,food,prosecco
+,food,liver loaf
+,food,zwieback
+,food,canned fruit
+,food,frozen fruits
+,food,brandy
+,selfcare,baby cosmetics
+,food,spices
+,selfcare,napkins
+,food,waffles
+,food,sauces
+,food,rum
+,food,chocolate marshmallow
+,food,long life bakery product
+,accesories,bags
+,food,sweet spreads
+,food,soups
+,food,mustard
+,food,specialty fat
+,food,instant coffee
+,food,snack products
+,food,organic sausage
+,food,soft cheese
+,food,mayonnaise
+,selfcare,dental care
+,kitchen,roll products
+,kitchen,kitchen towels
+,homecare,flower soil/fertilizer
+,kitchen,cereals
+,food,meat spreads
+,homecare,dishes
+,selfcare,male cosmetics
+,decorative,candles
+,food,whisky
+,food,tidbits
+,food,cooking chocolate
+,kitchen,seasonal products
+,food,liqueur
+,homecare,abrasive cleaner
+,food,syrup
+,food,ketchup
+,selfcare,cream
+,selfcare,skin care
+,selfcare,rubbing alcohol
+,food,nut snack
+,food,cocoa drinks
+,homecare,softener
+,homecare,organic products
+,food,cake bar
+,food,honey
+,food,jam
+,kitchen,kitchen utensil
+,decorative,flower (seeds)
+,food,rice
+,food,tea
+,food,salad dressing
+,food,specialty vegetables
+,food,pudding powder
+,food,ready soups
+,selfcare,make up remover
+,homecare,toilet cleaner
+,kitchen,preservation products
+,selfcare,garments
+,Furniture,Bookcases
+,Furniture,Chairs
+,Office Supplies,Labels
+,Furniture,Tables
+,Office Supplies,Storage
+,Furniture,Furnishings
+,Office Supplies,Art
+,Technology,Phones
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Furniture,Tables
+,Technology,Phones
+,Office Supplies,Envelopes
+,Furniture,Bookcases
+,Furniture,Chairs
+,Technology,Phones
+,Technology,Phones
+,Office Supplies,Storage
+,Office Supplies,Storage
+,Technology,Accessories
+,Office Supplies,Binders
+,Office Supplies,Storage
+,Technology,Accessories
+,Technology,Phones
+,Office Supplies,Binders
+,Office Supplies,Labels
+,Furniture,Furnishings
+,Furniture,Chairs
+,Office Supplies,Fasteners
+,Technology,Phones
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Paper
+,Technology,Accessories
+,Office Supplies,Binders
+,Office Supplies,Art
+,Technology,Accessories
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Furniture,Furnishings
+,Furniture,Chairs
+,Office Supplies,Art
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Furniture,Furnishings
+,Office Supplies,Appliances
+,Office Supplies,Binders
+,Office Supplies,Art
+,Office Supplies,Storage
+,Office Supplies,Envelopes
+,Office Supplies,Storage
+,Furniture,Chairs
+,Technology,Accessories
+,Office Supplies,Labels
+,Office Supplies,Storage
+,Office Supplies,Art
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Office Supplies,Paper
+,Technology,Accessories
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Technology,Accessories
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Technology,Accessories
+,Technology,Phones
+,Office Supplies,Art
+,Technology,Accessories
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Binders
+,Office Supplies,Fasteners
+,Office Supplies,Envelopes
+,Office Supplies,Paper
+,Office Supplies,Envelopes
+,Furniture,Tables
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Storage
+,Office Supplies,Envelopes
+,Technology,Phones
+,Furniture,Chairs
+,Furniture,Tables
+,Office Supplies,Binders
+,Office Supplies,Storage
+,Furniture,Chairs
+,Furniture,Furnishings
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Fasteners
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Office Supplies,Art
+,Office Supplies,Fasteners
+,Office Supplies,Binders
+,Office Supplies,Supplies
+,Furniture,Furnishings
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Envelopes
+,Office Supplies,Paper
+,Office Supplies,Appliances
+,Office Supplies,Storage
+,Furniture,Furnishings
+,Technology,Phones
+,Technology,Phones
+,Furniture,Chairs
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Office Supplies,Art
+,Furniture,Chairs
+,Office Supplies,Labels
+,Technology,Phones
+,Office Supplies,Paper
+,Technology,Accessories
+,Office Supplies,Envelopes
+,Office Supplies,Binders
+,Office Supplies,Art
+,Technology,Machines
+,Office Supplies,Storage
+,Furniture,Chairs
+,Office Supplies,Art
+,Office Supplies,Appliances
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Appliances
+,Office Supplies,Labels
+,Office Supplies,Appliances
+,Furniture,Chairs
+,Office Supplies,Supplies
+,Office Supplies,Art
+,Office Supplies,Storage
+,Technology,Accessories
+,Technology,Phones
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Binders
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Furniture,Bookcases
+,Technology,Phones
+,Office Supplies,Paper
+,Furniture,Bookcases
+,Office Supplies,Art
+,Office Supplies,Envelopes
+,Office Supplies,Art
+,Office Supplies,Art
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Furniture,Tables
+,Office Supplies,Appliances
+,Office Supplies,Appliances
+,Furniture,Furnishings
+,Technology,Phones
+,Office Supplies,Storage
+,Technology,Phones
+,Office Supplies,Binders
+,Office Supplies,Fasteners
+,Office Supplies,Storage
+,Technology,Accessories
+,Office Supplies,Labels
+,Furniture,Bookcases
+,Technology,Phones
+,Technology,Machines
+,Technology,Accessories
+,Office Supplies,Storage
+,Technology,Phones
+,Office Supplies,Fasteners
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Technology,Machines
+,Office Supplies,Art
+,Office Supplies,Art
+,Furniture,Tables
+,Office Supplies,Storage
+,Furniture,Chairs
+,Furniture,Chairs
+,Office Supplies,Binders
+,Furniture,Tables
+,Furniture,Tables
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Technology,Accessories
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Furniture,Furnishings
+,Furniture,Furnishings
+,Technology,Phones
+,Furniture,Tables
+,Furniture,Furnishings
+,Office Supplies,Art
+,Furniture,Chairs
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Office Supplies,Appliances
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Paper
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Envelopes
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Storage
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Technology,Machines
+,Technology,Machines
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Art
+,Office Supplies,Fasteners
+,Office Supplies,Storage
+,Office Supplies,Envelopes
+,Office Supplies,Storage
+,Technology,Accessories
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Art
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Office Supplies,Labels
+,Office Supplies,Binders
+,Technology,Phones
+,Furniture,Tables
+,Office Supplies,Paper
+,Technology,Accessories
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Office Supplies,Supplies
+,Office Supplies,Fasteners
+,Office Supplies,Labels
+,Technology,Accessories
+,Furniture,Bookcases
+,Furniture,Furnishings
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Fasteners
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Furniture,Tables
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Binders
+,Office Supplies,Art
+,Office Supplies,Art
+,Furniture,Furnishings
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Labels
+,Furniture,Furnishings
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Art
+,Furniture,Chairs
+,Technology,Machines
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Fasteners
+,Office Supplies,Binders
+,Technology,Accessories
+,Furniture,Furnishings
+,Technology,Phones
+,Office Supplies,Storage
+,Furniture,Chairs
+,Office Supplies,Labels
+,Office Supplies,Binders
+,Technology,Phones
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Technology,Copiers
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Furniture,Tables
+,Office Supplies,Fasteners
+,Office Supplies,Art
+,Office Supplies,Binders
+,Office Supplies,Fasteners
+,Technology,Phones
+,Office Supplies,Storage
+,Technology,Phones
+,Office Supplies,Art
+,Office Supplies,Paper
+,Office Supplies,Art
+,Technology,Accessories
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Furniture,Bookcases
+,Office Supplies,Envelopes
+,Office Supplies,Art
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Office Supplies,Appliances
+,Office Supplies,Labels
+,Office Supplies,Labels
+,Furniture,Chairs
+,Office Supplies,Art
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Supplies
+,Office Supplies,Storage
+,Furniture,Bookcases
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Technology,Accessories
+,Office Supplies,Art
+,Technology,Accessories
+,Office Supplies,Paper
+,Furniture,Tables
+,Office Supplies,Appliances
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Technology,Accessories
+,Furniture,Tables
+,Technology,Accessories
+,Technology,Machines
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Binders
+,Technology,Accessories
+,Technology,Phones
+,Technology,Copiers
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Office Supplies,Supplies
+,Office Supplies,Storage
+,Furniture,Bookcases
+,Office Supplies,Storage
+,Technology,Accessories
+,Office Supplies,Paper
+,Office Supplies,Art
+,Office Supplies,Appliances
+,Technology,Accessories
+,Technology,Copiers
+,Office Supplies,Paper
+,Furniture,Tables
+,Office Supplies,Paper
+,Office Supplies,Labels
+,Office Supplies,Paper
+,Furniture,Bookcases
+,Furniture,Chairs
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Art
+,Furniture,Chairs
+,Office Supplies,Paper
+,Office Supplies,Art
+,Office Supplies,Envelopes
+,Technology,Accessories
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Technology,Machines
+,Office Supplies,Art
+,Office Supplies,Binders
+,Technology,Accessories
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Technology,Accessories
+,Technology,Machines
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Labels
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Storage
+,Office Supplies,Art
+,Office Supplies,Art
+,Office Supplies,Art
+,Technology,Phones
+,Furniture,Tables
+,Office Supplies,Storage
+,Technology,Accessories
+,Furniture,Chairs
+,Furniture,Chairs
+,Office Supplies,Envelopes
+,Office Supplies,Appliances
+,Technology,Accessories
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Furniture,Tables
+,Office Supplies,Binders
+,Office Supplies,Supplies
+,Office Supplies,Appliances
+,Furniture,Furnishings
+,Furniture,Bookcases
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Furniture,Bookcases
+,Technology,Phones
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Technology,Phones
+,Furniture,Furnishings
+,Office Supplies,Art
+,Office Supplies,Storage
+,Technology,Accessories
+,Office Supplies,Art
+,Technology,Accessories
+,Office Supplies,Labels
+,Furniture,Bookcases
+,Technology,Phones
+,Technology,Phones
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Art
+,Office Supplies,Storage
+,Office Supplies,Envelopes
+,Technology,Accessories
+,Furniture,Tables
+,Office Supplies,Envelopes
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Furniture,Chairs
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Art
+,Office Supplies,Art
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Technology,Accessories
+,Office Supplies,Art
+,Office Supplies,Art
+,Office Supplies,Art
+,Technology,Copiers
+,Office Supplies,Storage
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Technology,Accessories
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Furniture,Tables
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Fasteners
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Supplies
+,Office Supplies,Envelopes
+,Furniture,Chairs
+,Furniture,Furnishings
+,Technology,Phones
+,Office Supplies,Binders
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Furniture,Chairs
+,Technology,Accessories
+,Technology,Phones
+,Office Supplies,Storage
+,Technology,Accessories
+,Technology,Phones
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Office Supplies,Binders
+,Office Supplies,Supplies
+,Furniture,Chairs
+,Furniture,Furnishings
+,Office Supplies,Fasteners
+,Office Supplies,Storage
+,Office Supplies,Art
+,Office Supplies,Labels
+,Furniture,Tables
+,Office Supplies,Paper
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Furniture,Furnishings
+,Office Supplies,Fasteners
+,Office Supplies,Labels
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Furniture,Chairs
+,Office Supplies,Labels
+,Office Supplies,Fasteners
+,Office Supplies,Binders
+,Technology,Phones
+,Office Supplies,Art
+,Office Supplies,Paper
+,Office Supplies,Paper
+,Office Supplies,Supplies
+,Office Supplies,Storage
+,Furniture,Furnishings
+,Office Supplies,Supplies
+,Technology,Phones
+,Technology,Phones
+,Office Supplies,Appliances
+,Office Supplies,Binders
+,Technology,Phones
+,Furniture,Chairs
+,Office Supplies,Labels
+,Technology,Phones
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Art
+,Technology,Accessories
+,Office Supplies,Appliances
+,Technology,Copiers
+,Technology,Phones
+,Furniture,Furnishings
+,Office Supplies,Supplies
+,Technology,Phones
+,Technology,Phones
+,Office Supplies,Supplies
+,Office Supplies,Storage
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Binders
+,Office Supplies,Art
+,Technology,Phones
+,Technology,Phones
+,Office Supplies,Labels
+,Office Supplies,Paper
+,Technology,Phones
+,Technology,Phones
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Technology,Phones
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Furniture,Chairs
+,Office Supplies,Appliances
+,Office Supplies,Storage
+,Office Supplies,Art
+,Furniture,Furnishings
+,Office Supplies,Appliances
+,Office Supplies,Binders
+,Office Supplies,Paper
+,Office Supplies,Storage
+,Technology,Accessories
+,Technology,Phones
+,Technology,Accessories
+,Office Supplies,Labels
+,Furniture,Chairs
+,Office Supplies,Binders
+,Office Supplies,Appliances
+,Furniture,Furnishings
+,Office Supplies,Binders
+,Furniture,Furnishings
+,Office Supplies,Storage
+,Office Supplies,Labels
+,Technology,Accessories
+,Office Supplies,Paper
+,Office Supplies,Appliances
+,Office Supplies,Fasteners
+,Office Supplies,Appliances
+,Furniture,Furnishings
